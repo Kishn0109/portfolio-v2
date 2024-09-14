@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         I am a dedicated software engineer with expertise in developing innovative web and desktop
-        applications, specializing in frontend technologies. .
+        applications, specializing in frontend technologies.
       </p>
     </>
   );
