@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://kishn0109.github.io/sitemap-index.xml
+Sitemap: https://kishn0109.github.io/portfolio-v2/sitemap-index.xml
 Host: https://kishn0109.github.io
