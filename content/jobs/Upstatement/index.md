@@ -1,13 +1,13 @@
 ---
 date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Sotware Engineer'
+company: 'Codemonk'
+location: 'Bangalore, India'
+range: 'May 2022 - Present'
+url: 'https://www.codemonk.io/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Deliver high-quality, scalable code for projects such as VAYDYN, a ground control station desktop application, and AIRO, a custom e-commerce platform.
+- Designed and developed a custom e-commerce platform for AIRO, including an admin portal and integrated Ghost blog for streamlined content management.
+- Mentor interns and junior developers, providing technical guidance and fostering knowledge sharing within the team.
+- Contributed to open-source projects like Rocket.Chat, resolving key issues and improving platform usability, demonstrating a commitment to community-driven development.
