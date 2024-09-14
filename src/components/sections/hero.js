@@ -73,7 +73,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://medium.com/@kishan.lal.rai210121/tailwind-css-custom-themes-everything-you-need-to-know-1e0c32885614"
       target="_blank"
       rel="noreferrer">
       Check out my blog!

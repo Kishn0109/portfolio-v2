@@ -9,7 +9,7 @@ tech:
   - TailwindCss
   - React
   - JavaScript
-company: 'Climate Wise'
+company: 'Codemonk'
 showInProjects: true
 ---
 

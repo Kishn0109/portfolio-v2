@@ -7,7 +7,7 @@ tech:
   - Next.js
   - TailwindCss
 
-company: 'Apple'
+company: 'Codemonk'
 showInProjects: true
 ---
 

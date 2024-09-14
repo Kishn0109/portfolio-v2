@@ -7,7 +7,7 @@ tech:
   - RTK Query
   - JavaScript
   - MongoDB
-company: 'Northeastern'
+company: 'Codemonk'
 showInProjects: true
 ---
 

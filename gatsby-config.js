@@ -5,9 +5,9 @@ module.exports = {
     title: 'Kishan Lal Rai',
     description:
       'I am a dedicated software engineer with expertise in developing innovative web and desktop applications.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://github.com/Kishn0109', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@LalRai91691',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Kishan Lal Rai',
+        short_name: 'Kishan Lal Rai',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
