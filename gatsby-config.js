@@ -1,11 +1,12 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/portfolio-v2', // Replace with your GitHub repository name
   siteMetadata: {
     title: 'Kishan Lal Rai',
     description:
       'I am a dedicated software engineer with expertise in developing innovative web and desktop applications.',
-    siteUrl: 'https://github.com/Kishn0109', // No trailing slash allowed!
+    siteUrl: 'https://kishn0109.github.io/portfolio-v2/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@LalRai91691',
   },
