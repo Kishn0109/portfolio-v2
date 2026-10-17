@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/kishan-lal-rai-79505a214/',
+      url: 'https://www.linkedin.com/in/kishan-lal-rai/',
     },
     {
       name: 'Twitter',

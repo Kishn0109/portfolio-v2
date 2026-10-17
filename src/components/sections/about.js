@@ -125,7 +125,17 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Next.js', 'Nest.js', 'TailwindCss'];
+  const skills = [
+    'TypeScript',
+    'JavaScript (ES6+)',
+    'React',
+    'Next.js',
+    'Redux & React Query',
+    'WebSockets',
+    'Tailwind CSS',
+    'Radix UI / shadcn/ui',
+    'Playwright',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,29 +145,44 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              My name is Kishan Lal Rai, and I’m from Delhi, India. In 2020 During my third semester
-              of collage, I was first introduced to programming, which sparked my passion for
-              development. Since that day, I have continuously honed my skills and developed several
-              web applications, growing my expertise in various technologies and frameworks.
+              My name is Kishan Lal Rai, and I’m a software engineer based in Bangalore, India. In
+              2020, during my third semester of college, I was first introduced to programming,
+              which sparked my passion for development. Since that day, I have continuously honed my
+              skills and developed several web applications, growing my expertise in various
+              technologies and frameworks.
             </p>
 
-            {/* <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p> */}
+            <p>
+              Fast-forward to today, and I’ve spent 4+ years taking products from concept to
+              production — a cross-platform drone ground-control station at{' '}
+              <a href="https://www.codemonk.io/" target="_blank" rel="noreferrer">
+                Codemonk
+              </a>
+              , and now an ad-automation and agentic AI platform at{' '}
+              <a href="https://sellergeni.com/" target="_blank" rel="noreferrer">
+                SellerGeni
+              </a>
+              . My main focus these days is frontend architecture at scale: real-time state, design
+              systems, and interfaces that stay fast under heavy data.
+            </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                Write some blogs
+              I also contribute to open source — including merged pull requests to{' '}
+              <a
+                href="https://github.com/RocketChat/Rocket.Chat/pulls?q=is%3Apr+author%3AKishn0109+is%3Aclosed"
+                target="_blank"
+                rel="noreferrer">
+                Rocket.Chat
+              </a>
+              , fixing markdown and Omnichannel UI bugs.
+            </p>
+
+            <p>
+              I occasionally{' '}
+              <a href="https://medium.com/@kishan.lal.rai210121" target="_blank" rel="noreferrer">
+                write about frontend development
               </a>{' '}
-              that covers some of the most important topics I’ve learned along the way. &amp; React.
+              covering some of the most important topics I’ve learned along the way.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

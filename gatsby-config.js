@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'Kishan Lal Rai',
     description:
-      'I am a dedicated software engineer with expertise in developing innovative web and desktop applications.',
+      'Kishan Lal Rai is a frontend software engineer with 4+ years of experience building and scaling products from concept to production across AI, SaaS, and real-time platforms.',
     siteUrl: 'https://kishn0109.github.io/portfolio-v2/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@LalRai91691',

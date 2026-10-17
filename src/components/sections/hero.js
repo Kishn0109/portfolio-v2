@@ -65,8 +65,13 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am a dedicated software engineer with expertise in developing innovative web and desktop
-        applications, specializing in frontend technologies.
+        I’m a frontend software engineer with 4+ years of experience building and scaling products
+        from concept to production across AI, SaaS, and real-time platforms. Currently I’m building
+        agentic AI and ad-automation products at{' '}
+        <a href="https://sellergeni.com/" target="_blank" rel="noreferrer">
+          SellerGeni
+        </a>
+        .
       </p>
     </>
   );
